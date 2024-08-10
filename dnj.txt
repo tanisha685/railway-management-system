@@ -1,0 +1,29 @@
+1)JAMMU EXPRESS(1234)
+
+20:40          08h:20m              05:00
+New Delhi      M T W T F S S        Jammu Tawi
+2/3/23			3/3/23
+
+2)JAMMU RAJDHANI(7890)
+
+19:05          08h:35m              03:40
+New Delhi      M T W T F S S        Jammu Tawi
+2/3/23			3/3/23
+
+3)SHRI SHAKTI EXP(22461)
+
+16:05          08h:35m              02:40
+New Delhi      M T W T F S S        Jammu Tawi
+2/3/23			3/3/23
+
+4)DEE MCTM AC SF(22401)
+
+15:00          08h:35m              21:00
+New Delhi      M T W T F S S        Jammu Tawi
+2/3/23			2/3/23
+
+5)UTTAR S KRANTI(22305)
+
+07:55          09h:50m              17:45
+New Delhi      M T W T F S S        Jammu Tawi
+2/3/23			2/3/23
